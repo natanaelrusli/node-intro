@@ -9,6 +9,8 @@ hello2 = () => "Hello World!"
 console.log(hello1())
 console.log(hello2())
 
+//=======================================
+
 // Function with parameter
 function count1(num1,num2) {
     return num1 + num2
